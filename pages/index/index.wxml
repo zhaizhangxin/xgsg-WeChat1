@@ -42,6 +42,10 @@
                 <image src="/image/lianxi.png"></image>
                 <text>加盟热线</text>
             </navigator>
+            <navigator url="/pages/my/index" open-type="redirect" class="flex-item bc_blue" hover-class="clickColor">
+                <image src="/image/lianxi.png"></image>
+                <text>我的</text>
+            </navigator>
         </view>    
     </view>
     <view class="Color"></view>

@@ -1,0 +1,10 @@
+<view>  
+<input  style="background-color:#eee;margin:20rpx;height:80rpx" type='text'     placeholder="用户名" bindinput="searchInputEvent" />
+<input type='password' value='' style="background-color:#eee;margin:20rpx;height:80rpx" />  
+
+<button style="background-color:#00ff00;margin:20rpx" bindtap="gotonewpage">登陆</button> 
+<navigator url="/pages/my/index" open-type="redirect" class="flex-item bc_blue" hover-class="clickColor">
+    <image src="/image/lianxi.png"></image>
+    <text>我的</text>
+</navigator>
+</view>  

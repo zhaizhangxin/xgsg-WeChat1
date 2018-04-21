@@ -1,0 +1,8 @@
+<!--newpage.wxml-->  
+<view style="width:100%;margin:30rpx">infofromapp:{{infofromapp}}</view>  
+<!-- <view style="width:100%;margin:30rpx">infofromindex:{{infofromindex}}</view>   -->
+<view style="width:100%;margin:30rpx">infofromstorage:{{infofromstorage}}</view>  
+<navigator url="/pages/login/index" open-type="redirect" class="flex-item bc_blue" hover-class="clickColor">
+    <image src="/image/lianxi.png"></image>
+    <text>我的</text>
+</navigator>

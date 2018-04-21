@@ -3,6 +3,8 @@
     "pages/index/index",
     "pages/jione/index",
     "pages/fruits/index",
+    "pages/login/index",
+    "pages/my/index",
     "pages/fishpowder/index",
     "pages/logs/logs"
   ],
